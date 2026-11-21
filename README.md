@@ -31,8 +31,7 @@ If your Markdown viewer does not display the video player, use the link above.
   </tr>
   <tr>
     <td><img src="https://i.postimg.cc/xCWPXH8w/1795248733478-846140286607117484-1383753122617253414-eae549de5d39eb02f7726bc885efbbac.jpg" alt="Hanoi clock in 24-hour format with rolling seconds and daylight information" width="300" /></td>
-    <td><img src="https://i.postimg.cc/65x0wdDj/1795248733489-846140286607117484-1383753122617253414-feb77e81c34b64f0eb725efb812cd37a.jpg
-    " alt="Hanoi clock in 12-hour format with a PM indicator" width="300" /></td>
+    <td><img src="https://i.postimg.cc/65x0wdDj/1795248733489-846140286607117484-1383753122617253414-feb77e81c34b64f0eb725efb812cd37a.jpg" alt="Hanoi clock in 12-hour format with a PM indicator" width="300" /></td>
   </tr>
 </table>
 
