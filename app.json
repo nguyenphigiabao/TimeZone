@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "TimeZone",
+    "slug": "timezone-world-clock",
+    "scheme": "timezone",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.kite.timezone"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "single"
+    },
+    "plugins": ["expo-router", "expo-status-bar", "expo-font"]
+  }
+}
